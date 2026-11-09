@@ -3,7 +3,7 @@
 [![Project Graduated](https://docs.outscale.com/fr/userguide/_images/Project-Graduated-green.svg)](https://docs.outscale.com/en/userguide/Open-Source-Projects.html)
 
 <p align="center">
-  <img alt="Terraform" src="https://www.datocms-assets.com/2885/1731373310-terraform_white.svg" width="200px">
+  <img alt="Terraform" src="https://cdn.scalingo.com/2885/1731373310-terraform_white.svg" width="200px">
 </p>
 
 ## 🌐 Links
